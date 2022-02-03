@@ -26,7 +26,7 @@ PHP-powered HTML5 Framework.
 > as possible. The idea is that a
 > Programming should be
 > publishable as-is, errors everywhere, without
-> nice and easy functions to use.
+> nice and easy functions to use. This should not be true.
 
 ## Tech
 
