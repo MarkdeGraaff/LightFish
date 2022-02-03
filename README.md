@@ -1,5 +1,5 @@
 # LightFish
-## _A light PHP framework. No Servers Needed._
+## _A light PHP framework._
 
 
 LightFish is a light, mobile-ready, routing compatible,
@@ -30,7 +30,7 @@ PHP-powered HTML5 Framework.
 
 ## Tech
 
-LightFush does not need a lot to work!
+LightFish does not need a lot to work!
 
 - Language - Just PHP
 - Live server - XAMPP, LAMPP, WAMPP. Really, anything will do!
